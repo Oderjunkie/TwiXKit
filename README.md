@@ -26,4 +26,5 @@ Sorry IE, Firefox, Brave, Netscape, and more users!
 | 1.1.1          | 01/14/2021 | Abillity to change color of "Tweet" button and others | Buggy    |
 | 1.0.0          | 01/14/2021 | Abillity to change width of individual columns        | Finished |
 | 1.1.0          | 01/14/2021 | Abillity to chunk tweets into parts automatically     | Broken   |
-| 1.1.0          | 01/14/2021 | Abillity to switch to Twitter's font                  | Pending  |
+| 1.1.0          | 01/14/2021 | Abillity to switch fonts                              | Pending  |
+| 1.1.0          | 01/14/2021 | Bookmark to show the last tweet the account read      | Pending  |
