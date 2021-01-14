@@ -7,7 +7,11 @@ The git repo for the (In progress) TwiXKit extension for [Tweetdeck](https://twe
 
 #### Chrome
 ---
-To install the extension, go to the [Chrome extensions page](chrome://extensions/) and click the switch that says "Developer mode", then drag the .crx file onto the Chrome window, as you drag it, it should say "Drop to install", if it doesn't, close the tab, re-open it, and try again.
+The only current way to install TwiXKit is this:<br/>
+Step 1: Download the source code (Unzipped)<br/>
+Step 2: Go to the [Chrome extensions page](chrome://extensions/) and click the switch that says "Developer mode".<br/>
+Step 3: On the same page, Click the button that says "Load unpacked", and navigate to the unzipped folder.<br/>
+It should be installed now.
 
 #### Other
 ---
