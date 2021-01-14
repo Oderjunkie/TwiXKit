@@ -1,0 +1,21 @@
+{
+ "name": "TwixKit",
+ "version": "1.0",
+ "description": "Allan, please add details.",
+ "permissions": ["webRequest", "webRequestBlocking", "browsingData", "webNavigation", "https://tweetdeck.twitter.com/*"],
+ "commands": {},
+ "background": {
+  "scripts": ["main.js"],
+  "persistent": true
+ },
+ "web_accessible_resources" : [
+  "edit.svg"
+ ],
+ "icons": {
+  "16": "icon/icon16.png",
+  "32": "icon/icon32.png",
+  "48": "icon/icon48.png",
+  "128": "icon/icon128.png"
+ },
+ "manifest_version": 2
+}
