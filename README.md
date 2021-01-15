@@ -13,6 +13,13 @@ Step 2: Go to the [Chrome extensions page](chrome://extensions/) and click the s
 Step 3: On the same page, Click the button that says "Load unpacked", and navigate to the unzipped folder.<br/>
 It should be installed now.
 
+
+#### Firefox (Desktop)
+---
+Step 1: Download the packed .zip file.<br/>
+Step 2: Go to the [Firefox debugging extensions page](about:debugging#/runtime/this-firefox)<br/>
+Step 3: Click the button that says "Load Temporary Add-on...", and navigate to the .zip file.
+
 #### Kiwi (Android)
 ---
 Step 1: Download the packed .crx file.<br/>
@@ -22,7 +29,7 @@ Step 3: On the same page, Click the button that says "Load", open using your pre
 #### Other
 ---
 TwiXKit is currently only maintained for Google Chrome.
-Sorry IE, Firefox, Brave, and more users!
+Sorry IE, Brave, and more users!
 
 ## Feature list
 ---
