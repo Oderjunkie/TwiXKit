@@ -5,7 +5,7 @@ The git repo for the (In progress) TwiXKit extension for [Tweetdeck](https://twe
 ## Installation
 ---
 
-#### Chrome
+#### Chrome (Desktop)
 ---
 The only current way to install TwiXKit is this:<br/>
 Step 1: Download the source code (Unzipped)<br/>
@@ -13,10 +13,16 @@ Step 2: Go to the [Chrome extensions page](chrome://extensions/) and click the s
 Step 3: On the same page, Click the button that says "Load unpacked", and navigate to the unzipped folder.<br/>
 It should be installed now.
 
+#### Kiwi (Android)
+---
+Step 1: Download the packed .crx file.<br/>
+Step 2: Go to the [Kiwi extensions page](kiwi://extensions) and click the switch that says "Developer mode"<br/>
+Step 3: On the same page, Click the button that says "Load", open using your preferred file manager, and navigate to the .crx file.
+
 #### Other
 ---
 TwiXKit is currently only maintained for Google Chrome.
-Sorry IE, Firefox, Brave, Netscape, and more users!
+Sorry IE, Firefox, Brave, and more users!
 
 ## Feature list
 ---
