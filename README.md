@@ -7,7 +7,7 @@ The git repo for the (In progress) TwiXKit extension for [Tweetdeck](https://twe
 
 #### Chrome (Desktop)
 ---
-The only current way to install TwiXKit is this:<br/>
+The only current way to install TwiXKit with Chrome is this:<br/>
 Step 1: Download the source code (Unzipped)<br/>
 Step 2: Go to the [Chrome extensions page](chrome://extensions/) and click the switch that says "Developer mode".<br/>
 Step 3: On the same page, Click the button that says "Load unpacked", and navigate to the unzipped folder.<br/>
@@ -16,6 +16,7 @@ It should be installed now.
 
 #### Firefox (Desktop)
 ---
+The only current way to install TwiXKit with Firefox is this:<br/>
 Step 1: Download the packed .zip file.<br/>
 Step 2: Go to the [Firefox debugging extensions page](about:debugging#/runtime/this-firefox)<br/>
 Step 3: Click the button that says "Load Temporary Add-on...", and navigate to the .zip file.
