@@ -42,3 +42,4 @@ Sorry IE, Brave, and more users!
 | 1.1.0          | 01/14/2021 | Abillity to switch fonts                              | Pending  |
 | 1.1.0          | 01/14/2021 | Bookmark to show the last tweet the account read      | Pending  |
 | 1.1.1          | 01/14/2021 | Abillity to change color of "Tweet" button and others | Buggy    |
+| 1.1.1          | 01/15/2021 | Working tabs in settings                              | Finished |
