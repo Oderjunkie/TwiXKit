@@ -1,12 +1,10 @@
+# this extension is no longer maintained
 # TwiXKit
----
 The git repo for the (In progress) TwiXKit extension for [Tweetdeck](https://tweetdeck.twitter.com/).
 
 ## Installation
----
 
 #### Chrome (Desktop)
----
 
 The only current way to install TwiXKit with Chrome is this:<br/>
 Step 1: Download the source code (Unzipped)<br/>
@@ -16,14 +14,12 @@ It should be installed now.
 
 
 #### Firefox (Desktop)
----
 The only current way to install TwiXKit with Firefox is this:<br/>
 Step 1: Download the packed .zip file.<br/>
 Step 2: Go to the Firefox debugging extensions page (about:debugging#/runtime/this-firefox)<br/>
 Step 3: Click the button that says "Load Temporary Add-on...", and navigate to the .zip file.
 
 #### Brave (Desktop)
----
 The only current way to install TwiXKit with Brave is this:<br/>
 Step 1: Download the source code (Unzipped)<br/>
 Step 2: Go to the  Brave extensions page (brave://extensions/) and click the switch that says "Developer mode".<br/>
@@ -31,18 +27,14 @@ Step 3: On the same page, Click the button that says "Load unpacked", and naviga
 It should be installed now.
 
 #### Kiwi (Android)
----
 Step 1: Download the packed .crx file.<br/>
 Step 2: Go to the  Kiwi extensions page (kiwi://extensions) and click the switch that says "Developer mode"<br/>
 Step 3: On the same page, Click the button that says "Load", open using your preferred file manager, and navigate to the .crx file.
 
 #### Other
----
 TwiXKit is currently only maintained for Chrome, Firefox, Brave, and Kiwi.
-Sorry apple users!
 
 ## Feature list
----
 
 - Finished: The feature was added.
 - Scrapped: The feature was scrapped (for now.)
